@@ -1,0 +1,13 @@
+<svg id="Hover_slider" data-name="Hover slider" xmlns="http://www.w3.org/2000/svg" width="58" height="58" viewBox="0 0 58 58">
+  <g id="Oval" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1">
+    <circle cx="29" cy="29" r="29" stroke="none"/>
+    <circle cx="29" cy="29" r="28.5" fill="none"/>
+  </g>
+  <text id="Drag" transform="translate(29 30)" fill="#fff" font-size="12" font-family="Lato-Regular, Lato"><tspan x="-16.656" y="0">DRAG</tspan></text>
+  <g id="right-arrow_6_copy" data-name="right-arrow (6) copy" transform="translate(27 37)">
+    <path id="Path" d="M-8.9,1.772h0L-7.06.094a.374.374,0,0,1,.5,0,.3.3,0,0,1,0,.456L-7.8,1.677H-.352A.338.338,0,0,1,0,2a.338.338,0,0,1-.352.323H-7.8l1.233,1.126a.3.3,0,0,1,0,.456.374.374,0,0,1-.5,0L-8.9,2.229h0A.3.3,0,0,1-8.9,1.772Z" fill="#fff" stroke="#fff" stroke-width="0.3"/>
+  </g>
+  <g id="right-arrow_6_copy_2" data-name="right-arrow (6) copy 2" transform="translate(31 37)">
+    <path id="Path-2" data-name="Path" d="M8.9,1.772h0L7.06.094a.374.374,0,0,0-.5,0,.3.3,0,0,0,0,.456L7.8,1.677H.352A.338.338,0,0,0,0,2a.338.338,0,0,0,.352.323H7.8L6.564,3.449a.3.3,0,0,0,0,.456.374.374,0,0,0,.5,0L8.9,2.229h0A.3.3,0,0,0,8.9,1.772Z" fill="#fff" stroke="#fff" stroke-width="0.3"/>
+  </g>
+</svg>
